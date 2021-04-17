@@ -1,4 +1,4 @@
-# Social-Distancing-in-Real-Time
+# Social Distance Detector - GRIP-APRIL21- The Spark Foundation
 Social distancing in Real-Time using live video stream/IP camera in OpenCV.
 
 
