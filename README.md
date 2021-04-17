@@ -44,6 +44,10 @@ python run.py
 
 
 ## References
+***GRIP***
+- 1. https://analyticsindiamag.com/covid-19-computer-vision/
+- 2. https://www.pyimagesearch.com/2020/06/01/opencv-social-distancing-detector/
+
 ***Main:***
 - YOLOv3 paper: https://arxiv.org/pdf/1804.02767.pdf
 - YOLO original paper: https://arxiv.org/abs/1506.02640
